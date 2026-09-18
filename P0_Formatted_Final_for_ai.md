@@ -34,7 +34,7 @@
 
 [14] Collectively, the articles shed light on the long-term historical trajectories that need to be understood in order to make sense of, and support, land policy reform; on the diverse and complementary roles of different actors in reform processes, both within and beyond the state; on the complex interplay of political and technical dimensions that affect both challenges and solutions; on navigating pluralistic systems of governance, law, religion and economy, with land connecting multiple ideologies, understandings, and logics for authority; and on what approaches work, and what conditions need to be in place, for advancing effective reforms aligned with the VGGT.
 
-[15] ## 3. A few Thematic highlights
+[15] ## 3. Thematic highlights
 
 [16] Overall, the articles in the collection highlight the continued relevance of the VGGT in land policy reform processes. The articles document how, since their adoption, the VGGT have been resorted to and used in different ways, in diverse policy contexts, from national legislation and policy reform to community by-laws and commissions of enquiry. Besides providing an authoritative reference point for addressing specific land policy issues, the VGGT have also been mobilized and wielded to catalyze social and institutional processes and build momentum for change in the first place, providing what has been described in the Uganda case study presented by Ochom as a ‘shared global policy ethos’.
 
