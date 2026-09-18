@@ -1,0 +1,267 @@
+<!-- editor_tool v2 export -->
+<!-- Do not change the [N] paragraph numbers. -->
+<!-- Lines tagged [SPECIAL] contain Word fields, images or hyperlinks
+     and will be left untouched on import. -->
+<!-- Footnote references appear inline as [^fnN]; their text is listed at the bottom. -->
+
+[0] # Why Consent Matters – Advancing Transparent, Informed, and Inclusive Land Registration in Laos through FPIC and VGGT Standards
+
+[1] # Abstract
+
+[2] Abstract: The VGGT promote secure tenure rights and equitable resource access. A key factor in achieving these goals is applying Free, Prior, and Informed Consent (FPIC) in land tenure, land use, and governance. The article outlines how the Land Management Project Laos and its the project’s advisory and implementation team integrate FPIC into Systematic Land Registration, enabling communities to make voluntary, informed decisions. The approach is innovative in Laos, where secure land rights have been limited but are gaining importance as the government pursues ambitious registration targets with World Bank and KfW support. FPIC is implemented through awareness-raising, capacity development, environmental and social screening, consultations, a consultation period, and consent meetings. Specialized teams ensure inclusive participation, conflict management, gender equity, base mapping, and parcel surveying. This multi-stakeholder process, involving government, civil society, the private sector, and local communities, is participatory and culturally sensitive, securing land rights and empowering communities, and supporting rural development. The article reflects on implementation challenges and socio-cultural complexities.
+
+[3] **Keywords:**
+
+[4] # 1. Introduction
+
+[5] ## 1.1 Land matters
+
+[6] Despite political and economic reforms and important steps toward development and poverty reduction, the Southeast Asian country of Laos, a socialist one-party state, remains one of the eight Asian countries that are among the 44 least developed countries in the world (UN CPD, 2024). Although Laos has experienced remarkable economic growth in recent years, this phase is now predicted to slow down significantly. Growth was mainly based on high public debt, financed by foreign loans, primarily from China. Overall, the goal of lifting the rural population out of poverty has not been achieved yet (World Bank, 2025a).
+
+[7] Furthermore, export-oriented raw material extraction, large infrastructure projects, and plantation farming, mostly operated by foreign companies, have triggered numerous social conflicts and environmental problems (Kenney Lazar *et al.*, 2023). Among the many challenges the country faces are uncertain land ownership and poor land administration. Much of the country's land is not systematically registered (World Bank, 2021). The lack of land and recognized landownership can threaten the livelihoods of the rural population, especially the most vulnerable groups: ethnic minorities, women, and marginalized people and communities (MONRE, 2021).
+
+[8] To overcome these challenges, the Government of Laos has set itself the ambitious goals to formalize land tenure and register all land in the country; the target of registering 1.6 million land titles by 2025, however, was not achieved. This indeed is urgently needed, as generally pressure on land is still high, threatening the livelihoods and food security of the country´s population. Land grabs, evictions, and displacements have been common in recent decades, while environmental destruction, deforestation, and land degradation continue to take their toll – further deepening communities’ vulnerability amid the increasing impacts of climate change (Kenney Lazar *et al.*, 2023). Land registration can contribute to preventing or mitigating these harmful impacts of controversial investments. It can increase tenure security and is expected to offer protection against eviction and expropriation. When titles are used as collateral for loans, they can contribute to improving the living conditions and farming methods of small-scale farmers, and thus contribute to local economic development (MRLG, 2024).
+
+[9] In 2020, Germany and the Laotian government therefore signed a financing agreement worth €7.325 million for the three-year Land Management Project Laos (LMPL). This project aims to accelerate systematic land registration, and in doing so, places particular emphasis on inclusive approaches. LMPL is based on human rights and environmental standards, prioritizing that no one should be excluded or disadvantaged in the process of land registration. Women, ethnic minorities, and other marginalized groups should have a say and be actively involved.
+
+[10] [SPECIAL] To prevent the high benchmarks of KfW´s (Kreditanstalt für Wiederaufbau) and the German Development Ministry´s environmental and social standards, to which the project is subject to as Germany is the funder of the project, from degenerating into mere declarations of intent and ensure that they are applied in practice, we, as part of the project’s advisory and implementation team, have developed a method which is geared toward respecting and implementing the principle of Free, Prior, and Informed Consent (FPIC), in line with international norms such as the Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security (VGGT). The objective is to support Laos in aligning policies and practices in view of responsible land governance and secure land rights for Laos´ rural population.
+
+[11] In implementing the project, we view the VGGT not only as a reference but also as an overarching framework for responsible land governance. The key lesson from the project is that applying international standards such as the VGGT and FPIC is not primarily a question of adopting the standards, but of making them operational within existing institutional and political realities. In Lao PDR, this required translating FPIC into practical, context-specific procedures that could function despite limited capacity, constrained resources and tight implementation timelines, while navigating tensions between state priorities, donor requirements and project-level safeguards.
+
+[12] We embedded specific aspects of land registration in a broader context, prioritizing human rights, land rights, gender equality, dispute resolution, and the inclusion of disadvantaged groups. Furthermore, we considered an analysis of the wider political and social context as well as of local informal and traditional land rights as crucial for success.
+
+[13] [SPECIAL] In doing so, we are guided by the VGGT´s emphasis on the importance of participation, transparency, conflict resolution, and accountability. The VGGT and their consent-oriented approach, as well as the FPIC principle, function not only as standards to be referenced but as our overarching framework for responsible land governance and administration.
+
+[14] This article outlines the context, describes the FPIC approach used within LMPL, and reflects on initial implementation experiences in the district of Sob Bao in Houaphan Province.
+
+[15] # 2. Challenges for Land Rights and Local Communities in Laos
+
+[16] In Northern Laos´ district Sop Bao, about two and a half hours from Houaphan´s provincial capital Sam Neua, lies the small village of Na Soon. Only a few kilometers separate it from a larger road that follows the course of the Nam Ma River, which, coming from Vietnam, winds its way around a few bends in this remote border region before returning to Vietnam. To reach Na Soon, one leaves this road and bumps along an unpaved track with meter-deep potholes. During the rainy season, this dirt road often floods, making it impassable – but today, as we near Na Soon to inform the locals about the upcoming steps of LMPL and ask for their consent to move along, it remains dry, and we can move forward.
+
+[17] In the community centre, only a few meters from the smaller yet wildly rushing Nam Latong River, behind which paddy fields cling to the mountains, around 60 villagers have gathered: men and women, young and old, from two different ethnic groups, each with their own culture, social practices, spiritual beliefs, language, and a particular sense of shared identity. 59 per cent of the inhabitants of this village belong to the Laotian majority population, the ethno-linguistic group of the Lao-Tai, a cluster of different but closely related groups. The remaining 41 per cent are Hmong.
+
+[18] # 3. Ethnic diversity of northern Laos
+
+[19] Northern Laos resembles an ethnic patchwork quilt. Numerous groups live here, shaped by the turmoil of Southeast Asian and Chinese history (Scott, 2009). Their history of mobility and displacement is reflected by broader historical regional dynamics, as people attempted to evade state control or were displaced by conflict. The Hmong, for instance, an ethnic group coming originally from southern China and representing around 10 per cent of the total population of Laos (approx. 600,000 people), became quite well-known because many of them supported the US during the Second Indochina War. Originally, the reason for their settling in Northern Laos can be traced back to historical assimilation policies and settlement movements by the dominant population group of Han people in Laos´ powerful neighbour, China, several centuries earlier. These developments had led many ethnic people, like the Hmong flee China and seek refuge in the remote mountainous landscape of northern Laos. (Daniels, 2013).
+
+[20] # 4. Legacies of war
+
+[21] Furthermore, migratory movements were triggered in this region due to Southeast Asia´s multidimensional and overlapping violent conflicts of the second half of the 20th century (Benson, 2015). Although officially neutral during the Second Indochina War, Laos suffered severely from its consequences, and itself was afflicted by a civil war between the communist Pathet Lao and the royal government during the 1960s and 1970s, in which external actors, including the USSR and the United States, were also involved. The Pathet Lao were a military resistance movement which used Houaphan as a hideout during the war, establishing large settlements in cave networks. The US bombed this region heavily in covert military operations, as Northern Laos served as a retreat and supply route for northern Vietnamese troops. The Ho Chi Minh Trail, running the length of the border between Laos and Vietnam, is nearby. These operations were kept secret from the public.
+
+[22] People in Laos today, specifically in Houaphan, are still suffering from the consequences of war, especially those living near the border with Vietnam. The clearance of unexploded ordnance (UXO), mostly remnants of cluster munitions, remains a laborious task and undermines development efforts. According to the Landmine and Cluster Munition Monitor, Laos is one of the most heavily bombed countries in the world. However, it lacks the resources to clear all contaminated areas. Still, 50 years after the end of the war, millions of unexploded bombs and ammunition remnants remain a cause of casualties every year (Landmine and Cluster Munitions Monitor, 2023).
+
+[23] # 5. Development pressures and land governance
+
+[24] These historical burdens intersect with more recent and current developments, which affect these ethnic people in various ways, as Laos wants to push forward economic progress. The government's pro-investment policy is seen as a way to overcome the country´s poverty and boost development, but it has also led to increasing pressure on land rights and thus on the livelihoods of ethnic groups. Land plays a central role in the country´s development policies – either as a coveted resource in itself or as a source of valuable raw materials and critical minerals, which are becoming increasingly important in the global race for resources.
+
+[25] Many investments, among them several hydropower and infrastructure projects, were financed through external loans, turning Laos into a highly indebted country (World Bank, 2025b). Economic development, however, was only partially successful. Land concession processes were often fragmented and insufficiently coordinated (CDE, 2020). Most of the rural population seems not to have really benefited from the concessions yet; negative effects on the environment and affected communities were becoming increasingly evident, particularly in relation to drivers of forest conversion and deforestation, as well as intensified pesticide use (Hett *et al.*, 2020).
+
+[26] A key problem might be that the local population often has no say in the planning and implementation of interventions of all kinds, among them large-scale agricultural or raw materials extraction projects, which are mostly carried out by foreign investors or multinational companies. Way too often, these actors implement their projects without informing the local population in an adequate manner or without receiving any consent from them. This poses a risk to these communities and has already led to social disruptions, environmental damage, and land degradation Nanhthavong *et al.*, 2021). There are currently some promising initiatives from the government, development agencies, and NGOs to promote more dialogue between the state, investors, and communities, such as land governance multistakeholder platforms and dialogues (Castellanet, 2025). But they have also proven that there is still a long way to go.
+
+[27] [SPECIAL] Many challenges therefore remain, and legal uncertainty and gaps in the regulatory framework particularly endanger vulnerable or marginalized groups such as women and ethnic minorities, or people living in designated areas. It is encouraging that the Lao National Assembly decided in 2024 to recognize land rights in forest areas (National Assembly Standing Committee of the Lao PDR, 2024). Until then, issuing land titles and land use certificates had been prohibited in these areas, as it was feared that this could increase deforestation. The concern is not unfounded: When authorities register agricultural land close to forest boundaries, they often attract speculators who clear the land before it is registered, particularly where the boundaries are unclear; formalising land ownership can also increase pressure to use land visibly and on a permanent basis, for example for agriculture, which can lead to further deforestation. Ultimately, the government’s official goal was to increase forest cover to 70% of the country’s land area, while a corresponding 70% was designated as state forest land—a legal-administrative classification that, under the Forestry Law, may include areas with little or no actual forest cover.. Until now, according to the 10th five-year national socioeconomic development plan (2026–2030), forest coverage reached 63% of total land area. Previously, communities living in one of three categories of state-owned forest (Protection Forestland, Preservation/Conservation Forestland, and Production Forestland) could not prove any rights to their land.
+
+[28] [SPECIAL] This is a significant step forward, as communities in Laos – whether they are in forest areas or not – are often unable to defend themselves against the seizure of the land they settle on, which may be more promising when they are holders of land titles. At least, many feel the perception of tenure security increased when having received a land title or a land use certificate, according to an impact study by GIZ (Scholz *et al.* 2017). Up to now, from approximately 3 million parcels in Lao PDR, only about 1.2 million have been titled, mostly individual parcels in urban and peri-urban areas. This means that the majority of Laos´ population does not have secure land ownership rights. Over 70 per cent of Laos´ 7.3 million population lives directly or indirectly from agriculture and forestry (Hennings, 2024). So far, the rural population has benefited not enough from increasing investments in large-scale agriculture, forestry, mining, and hydropower, and the land they settle and work as smallholder farmers is highly sought after (CDE, 2020). Pressure on land is also increasing, as anthropogenic climate change makes extreme weather events more frequent and more severe than ever before, mainly affecting the rural population. Laos is already increasingly exposed to floods and rising temperatures, and the ability to adapt to climate change is limited. Food security is therefore at risk (Sustainable Mekong Research Network, 2019). Uncertain land rights and ownership structures exacerbate the situation, as those who do not have secure access to land invest less in their land. Without registered land titles, households cannot use them as collateral for loans to finance seeds or to develop more sustainable farming methods, and thus, adapt to climate change. Without planning security and with the constant threat of land grabbing, the risks and the number of land conflicts increase. These dynamics can increase the risk of deepening poverty.
+
+[29] # 6. Land and Culture
+
+[30] As with many Indigenous groups around the world, land in Laos is closely linked to the culture, customs, and practices of the country´s ethnic people. In Laos, however, these communities are not recognized as Indigenous, but are referred to as ethnic groups, although most of them share many characteristics of Indigenous Peoples as stated by international standards, agreements, or approaches to definitions, such as having a historical connection to pre-colonial or pre-settler societies, belonging to non-dominant groups in society or having their own social, economic, or political systems, as well as languages, cultures, and beliefs. In the case of Laos, this is important as international human rights law recognizes specific rights of Indigenous Peoples , especially in their distinction from other groups, like peasants and local communities (Barume, 2025).
+
+[31] The Lao government officially recognizes 49 ethnic groups and 160 ethnic sub-groups (Minority Rights Group, 2018). Many of the ethnic communities we encounter in Northern Laos have been living according to their traditional customs for a long time. These customary systems are based on rules and customary law, which is derived from the traditions of the groups and has a significant impact on the way they settle, use, and manage land. They are usually unwritten norms and practices, which often come into conflict with codified law or statutory tenure, especially when land is registered (MRLG, 2023).
+
+[32] When the state wants to regulate land rights with its administrative apparatus, it usually intersects with these existing customary rights. It changes them, overlaps them, or dissolves them. Defining parcel boundaries creates a new social reality that shapes all areas of community life and economic activity. An important aspect here is that customary systems are community-oriented – the community administers and manages land according to their customs, whereas statutory tenure is defined by the state, focusing on formalizing individual tenure by granting use rights and titles.
+
+[33] For some communities, registering their land and titling could be inappropriate; this must be taken into consideration in the project, as it is affecting the land of these communities; harmonizing divergent ideas about land rights or land registration systems, e.g. in view of their legal anchoring (statutory vs. customary), is key to a project´s success. If communities do not consent to the project, systematic land registration will not proceed, whether at the village level or in surrounding agricultural areas.
+
+[34] Overall, these historical and cultural dynamics influence how communities understand land tenure and how they react to external interventions. This makes the consent of affected communities to our project not only a procedural requirement in LMPL´s philosophy, but a necessity for legitimacy, in line with the VGGT´s demand for states to respect customary tenure systems and take them into account in its interventions.
+
+[35] # How do we apply FPIC under LMPL?
+
+[36] As our team – consisting of project staff and representatives of provincial and district government authorities – has arrived in Na Soon, we begin with a public consultation meeting in the community centre. The village authorities have been informed beforehand on the procedure. The goal of the public consultation is to inform the villagers that the Lao government plans to register as much land as possible in the residential land of the village and its surrounding agricultural land, and ask for their permission to do so. The employees of the local district authorities, who have received training on conflict-and gender-sensitive awareness-raising, present the project to the villagers using teaching materials we developed. They explain the objectives of the project, all planned activities, steps, and above all, the advantages and risks of participating.
+
+[37] # Introducing the LMPL: What It Is and Why It Matters
+
+[38] The public consultation begins with the team explaining LMPL, the objectives of the government, and the following information: Since 2017, the Lao government has been fundamentally reforming its land policy. With a new land strategy and revised land and forestry laws, it has laid the foundation for granting land titles for housing, agriculture, trade, and forests in rural areas as well. Since 2017, land policy has shifted toward building a complete, standardized, and digital national land system. This includes creating a nationwide land registry, harmonizing land categories, and rolling out digital cadastre systems to scale up land titling and replace informal claims with formal certificates, aiming for full territorial coverage through systematic registration. At the same time, the 2019 Land Law more explicitly acknowledges “the use of State land for collective purposes”while opening clearer legal pathways for commercial land use and investment, facilitating integration into regional markets such as agribusiness and infrastructure (Government of Laos, 2019).
+
+[39] [SPECIAL] The goal of the government is to officially register all land in the country. The Ministry of Agriculture and Environment (MAE) is leading the project. From 2022 to 2026, with support from the World Bank and KfW), a nationwide program will be implemented to massively expand land registration. The plan is to issue 1.6 million land titles and use certificates for individual and collective land (residential land and permanent agriculture), and enter them into the national system.
+
+[40] Back in 2020, KfW and the Laotian government signed a financing agreement for the three-year Land Management Project Laos (LMPL), which aims to speed up the granting of land titles.
+
+[41] The LMPL has three main focuses:
+
+[42] 1. Improving infrastructure and services: Modernizing buildings and technical equipment in the provincial and district offices of the MAE; introducing modern software and digital tools for registration and administration.
+
+[43] 2. Expanding systematic land registration: Surveying and registering 125,000 plots of land and integrating existing land titles into the national LandReg system.
+
+[44] 3. Strengthening capacities: Training and further education for government employees and other stakeholders at all levels.
+
+[45] # Next, we outline the LMPL methodology: Systematic Land Registration (SLR)
+
+[46] [SPECIAL] In SLR, we aim at identifying all land parcels in an area, which is typically a village with some residential land and some for agriculture. Registering the land means to formally document land rights, meaning the ownership of a land use right, and document it in a land register, the LaoLandReg. The landowner then receives proof of his or her land rights in the form of a title certificate. However, it must be noted that in socialist Laos, the owner of a land title is technically not the proprietor of the land, as land in Laos “is owned by the national community, with the State representing the community’s ownership” (Government of Laos, 2019) . However, titleholders receive tenure security as their land use rights are documented. Having their rights registered thus strengthens tenure security significantly. The title holder can then more easily defend and protect their land, but also sell it.
+
+[47] The purpose of the public consultation is not only to inform villagers about the project, but also to clarify their rights – specifically their right to Free, Prior, and Informed Consent (FPIC)
+
+[48] Here, we explain the objectives of our FPIC approach: We want to
+
+[49] ensure that all ethnic groups and local communities are included in the decision-making process regarding systematic land registration and land titling.
+
+[50] increase transparency and strengthen the rights of ethnic groups and communities in the process of land titling.
+
+[51] protect communities from unwanted negative impacts on their land rights.
+
+[52] [SPECIAL] # 
+
+[53] # Free, Prior and Informed Consent (FPIC) - Procedure under Land Management Project Laos (LMPL)
+
+[54] # But what does FPIC actually mean?
+
+[55] FPIC is a fundamental right of Indigenous Peoples recognized by international law. It is based on their inherent right to self-determination, which allows them to shape their own economic, social, and cultural development, as well as on individual human rights. Human rights bodies and courts have confirmed FPIC as a standard.
+
+[56] FPIC is intended to ensure that Indigenous communities make decisions without coercion or intimidation, that they are consulted on activities that affect them, that they receive complete and understandable information about a project and its potential benefits and disadvantages, and that they retain the right to approve or reject a project at any stage.
+
+[57] In 2007, the United Nations General Assembly adopted the Declaration on the Rights of Indigenous Peoples (UNDRIP). It emphasizes the importance of FPIC in key cases, such as legislative or administrative measures affecting Indigenous Peoples (Article 19) or the use of their land (Article 28), and government-approved projects affecting their land or resources, particularly in the exploitation of natural resources (Article 32). Although UNDRIP is not legally binding, it carries considerable moral and political weight. Laos has voted in favour of adopting UNDRIP, although it does not recognize Indigenous Peoples as such.
+
+[58] Another important international treaty regarding FPIC is the Convention 169 of the International Labour Organization. It stipulates that Indigenous Peoples must be consulted on development projects and legislative or administrative measures that affect them (Article 6). These consultations should aim to reach agreement or consent (Article 6.2). Although Laos is not among the 24 states that have ratified it – therefore being not legally binding –, ILO 169 also bears symbolic weight, especially if it comes to cooperation between Laos and donors from other countries. In the case of LMPL, this is important, as Germany itself ratified ILO 169 in 2021, making it therefore theoretically an obligation for German state-financed development projects to adhere to its principles.
+
+[59] The LMPL project also applies FPIC in accordance with the World Bank's Environmental and Social Standard 7 (ESS7), KfW's own sustainability guidelines, and other international frameworks. All these standards make it an obligation to ensure that all affected parties – regardless of their ethnic origin – are fully consulted and give their consent before the project begins.
+
+[60] Laos officially does not recognize Indigenous people on their territory, as mentioned earlier. However, it is home to a large number of ethnic groups that share characteristics of so-called Indigenous Peoples, for instance in having links to certain territories or distinct language or cultures. The project therefore generally applies the FPIC principle to local communities throughout the country.
+
+[61] The Lao government itself had already committed to integrating FPIC principles into policy frameworks for biodiversity conservation and development planning. Laotian regulations, and guidelines strengthen the role of villages in land use planning, forest resource management, and the protection of nature reserves (Larsen *et al.*, 2023). However, we found it necessary to develop this specific approach to applying FPIC during our SLR process, making it more comprehensible for project staff and government authorities to comply with the standards, especially in view of the time necessary for villagers to receive full information and to reflect on the consequences of participation. Our approach of allowing villagers some time for reflection ultimately aims at protecting community land rights, promoting women's rights and gender equality, and ensuring effective conflict management and dispute resolution before the project begins.
+
+[62] [SPECIAL] [Empty Paragraph]
+
+[63] # Poster for Awareness Raising among Villagers showing the FPIC Procedure under the Land Management Project Laos (LMPL)
+
+[64] [Empty Paragraph]
+
+[65] # How can FPIC be translated from theory into practice?
+
+[66] Our approach is formalized in an FPIC guideline we have developed over several months in collaboration with various stakeholders, including the MAE and its Department of Land Administration and Management. According to the guideline, we must follow certain steps in a preparatory phase for the actual systematic land registration process, consisting of public awareness raising (as described in the public consultation above), an environmental and social screening, a FPIC period of 15 days for the villagers, and a formal consent meeting. Two specialized teams handle this work, each with a distinct focus.
+
+[67] The first team, the Community Engagement and Awareness Team, leads all FPIC-related activities. It includes staff from district authorities and national and regional community service organizations with land expertise, and members of Lao mass organizations like the Lao Front for National Construction (responsible for matters affecting ethnic groups in the country) and the Lao Women’s Union. This team visits the project villages before technical implementation kicks off, explains the process clearly and culturally appropriately, and ensures that all groups – including women, ethnic minorities, and vulnerable populations – can participate freely. All team members will have received training in FPIC principles, environmental and social safeguards, gender-sensitive communication, conflict resolution, and facilitation. They learn to share information in local languages, handle disputes, document feedback, and help villagers make informed, pressure-free decisions. Environmental and social screenings conducted before public awareness-raising activities provide information that enables staff to tailor the consultation process to the specific cultural and social context of each community. The data collected during the screening process also reveals which groups, governance systems and conflicts exist within the village; this makes it possible, for example, to provide targeted information to previously marginalised groups and to take their needs into account.
+
+[68] The second team, the SLR Team, handles the actual land registration activities and tasks. Comprising district-level staff and a private surveying company, this team already works during the 15-day consultation period to prepare land use base maps needed for the registration process (but outside of the village to avoid government staff to exert influence over villagers´decisions). By separating technical work from community discussions, we allow villagers to deliberate and decide without outside influence. The base maps then clarify village boundaries and land use zones, guide discussions, and help resolve disputes. The base mapping activity does not influence villagers' decisions yet, but it can already be made during the FPIC consultation period to save time.
+
+[69] Together, the two teams manage the early stages of SLR. Public awareness meetings introduce the purpose of land registration, outline potential benefits and impacts, and provide space for questions and concerns. Villagers receive time to understand the information, discuss it, and decide collectively whether to participate. This phase includes outreach sessions, follow-up discussions, and formal consultations where communities can give or withhold consent.
+
+[70] Since SLR activities are time-sensitive, many tasks run in parallel. While the Awareness Team facilitates village consultations, the SLR Team prepares technical materials for later stages. This coordinated approach ensures efficiency while respecting FPIC principles and giving communities real decision-making power.
+
+[71] The aim of the public consultation is not only to inform the villagers, but also to empower them in view of their knowledge of their land rights and provide guidance on where to seek information and support, including in cases where land-related disputes arise. In the end, our public awareness activities should enable the villagers to assert their rights. We want them to be able to make an informed decision about whether they want to participate in the project – i.e., register their land and receive a land title certificate – or not. Participation is voluntary, not mandatory.
+
+[72] After having completed the public consultation in Na Soon, the villagers start to ask questions; a discussion on the benefits and risks of land registration starts, and the most outspoken, among them, naturally, the village head and members of the village authority, are in favour of participating in the project because they are convinced of its advantages.
+
+[73] However, caution is advised here. This cannot yet be considered as a consent or approval of the project coming from the community. Not all of them have spoken out; some might be absent as they could not attend the meeting, for instance, as some might work in the fields or are travelling. Others, like the women or members of ethnic minorities, could be intimidated by the scenario, especially as representatives from the state are present; female and minority voices and opinions are often overheard in these settings. Women, however, play a central role in agriculture and food security; thus, their opinion matters. Furthermore, representatives of ethnic minorities could also need specialized information on their specific rights.
+
+[74] Therefore, we split the community into focus groups, in which we address their specific needs and questions; here in Na Soon, there is one group of women, and there is a group of Hmong people who receive our special attention. It is important to have translators or people from the community who can translate what we say. As it turns out, many Hmong, especially women, do not speak or understand Lao. In the public consultation, they therefore either did not understand what was said or relied on other people translating to them. This can lead to the transfer of biased information. It is important that people affected by the project receive neutral information; this means that it is highly important they obtain information not only on benefits (which always could benefit a few more than others in such settings), but also on risks.Formal land registration, for instance, can lead to the shift from customary and collective tenure systems to individual land titles with fixed boundaries, which may exclude groups without formal recognition, such as women, migrants or seasonal land users, and landless people. At the same time, those with better access to information and administrative processes are often better positioned to benefit, reinforcing existing inequalities. Fixing boundaries can also turn previously flexible arrangements into formal disputes, sometimes escalating informal understandings into legal conflicts. As land becomes a more clearly defined market asset, risks of sale, speculation, and weakened community ties increase. In addition, registration fees and land taxes can create financial pressure for poorer households, potentially leading to distress sales or even land loss. Gender inequalities may be reinforced where land is registered primarily in men’s names, weakening women’s secondary rights. Finally, formal systems often struggle to capture overlapping and flexible local land-use practices. Once the land registration process is complete, it becomes more difficult to break up these formal land ownership arrangements, except through sale or purchase, inheritance, lease, etc. This should be made clear to everyone.
+
+[75] Either before or following these focus group discussions, we conduct an environmental and social screening to gather important information on the village and potential conflicts which could play a role in the procedure of registration process. Here, district officials and project staff meet with the village head and other village authorities to gather data on the village, ethnic composition of the village, historical land conflicts among villagers or with external actors (such as neighbouring villages, investors, or state authorities), and environmental concerns. For this purpose, we make use of a mobile app we developed to ensure quick and smooth data collection, ready to be immediately assessed and interpreted by project staff. In the screening, we receive lots of specific information which can help us in dispute resolution before technical teams start the SLR work. This reduces the workload for this team and saves time; the technical teams will probably deal with fewer sensitive conflicts than usual.
+
+[76] After having concluded the public consultation, the focus group discussions and screening, the project staff leave the village for at least 15 days to give villagers time to discuss the project and its consequences. In the case of land registration, customary tenure systems might be changed, meaning a significant cultural change; generally, we expect tenure security, for instance in confrontation with the state or investors, to be strengthened.From our point of view, registration tends to lead to legal certainty and numerous benefits for the local population. They can defend themselves more successfully against land grabs or use land titles as collateral for loans. Increased legal certainty can lead to better and more sustainable investment by the population in their land, and is thus an effective means of escaping poverty and contributing to food security.
+
+[77] [SPECIAL] [Empty Paragraph]
+
+[78] # 3. Identifying Initial Land Use Zones and Drafting Base Map
+
+[79] [Empty Paragraph]
+
+[80] # Navigating Challenges
+
+[81] Despite the voluntary nature of the VGGT (Art. 2.1), Lao government agencies have shown openness to LMPL´s approach of integrating these standards in its land registration process, specifically in view of asking for consent from the local communities affected by the implementation of land registration.
+
+[82] Initial concerns among the government institutions involved did not primarily revolve around issues of transparency toward local communities or public participation, but rather around time-related issues – there were fears that the process would be too costly and lengthy and that the ambitious target indicators would be jeopardized.
+
+[83] To dispel these concerns, we did not simply rely on the fact that these principles comply with international human rights and environmental standards. Instead, we tried to convince the government partner of the advantages of applying them, particularly regarding the possibility of saving time by avoiding land conflicts during and after implementation through a carefully done preparation. This saves not only time but also money.
+
+[84] To strengthen our rights-based approach, we convinced the government to involve civil society organizations – which in our context are called community service organizations. These organizations can play a vital role in raising awareness of land rights, strengthening community agency, and creating bridges between local populations and state institutions. Within a piloting activity, we have integrated two CSOs in two target provinces which support the government in applying the defined conflict- and gender-sensitive approach.
+
+[85] Their participation is fully in line with the VGGT’s emphasis on multi-stakeholder engagement, in which civil society actors should play a significant role. We have presented and discussed this approach in several stakeholder workshops and now aim to integrate it more firmly into regional multi-stakeholder platforms, anchoring VGGT principles at both national and regional levels. This strengthens legitimacy, fosters peer learning, and supports more coherent standards for responsible land governance.
+
+[86] A lesson from our discussions on implementation procedures with various stakeholders is that strengthening VGGT implementation in Laos requires navigating the tension between government institutions – bound to national guidelines, political expectations, and land registration targets – and international standards for responsible land governance. Our approach aims to bridge these two spheres by supporting VGGT alignment while adapting to the political and administrative realities of Laos.
+
+[87] To reach our goal, negotiation and mutual respect among all stakeholders were necessary, as well as the willingness to compromise. A concrete example is the 15-day consultation period. From a rights-based and formal FPIC-perspective, this timeframe is insufficient; communities need more time to understand implications, access information, and make informed decisions. Yet the compromise was necessary, given the government’s pressure to deliver a high number of land titles within the project scope and the government´s target in general. Importantly, 15 days still represent an improvement over the previous practice in which villagers were asked to decide immediately after the consultation meeting. This illustrates a core principle of VGGT implementation in sensitive political environments: addressing the constraints state actors face and negotiating realistic entry points for incremental progress.
+
+[88] To operationalize this broader approach, substantial investment in capacity building was necessary, both for national institutions and for local authorities. Training sessions were aligned with VGGT recommendations to strengthen the capacities of implementing agencies and local communities (as recommended in VGGT Art. 1.2). During these trainings, it became evident that while many officials were familiar with the term FPIC, their understanding was often superficial or incorrect. For example, the concept of prior was frequently interpreted as simply informing communities before project activities. It was less understood that prior implies sufficient time for reflection, internal discussions, and meaningful information sharing.
+
+[89] Finally, we face practical challenges in implementation. Time for training and practical implementation is limited. The screening does not cover all of a village's problems and therefore cannot prevent further difficulties from arising during land registration. Nonetheless, the 15-day period is used for broader dispute resolution (not boundary disputes) and addressing these difficulties before land registration begins. Villagers are here supported by CSOs. This reduces delays during the registration activities in the field, but also in the final public display period, which remains 30 days but is expected to involve fewer disputes.
+
+[90] It was crucial to make government institutions aware of the importance of responsible land governance standards and to take the first steps toward implementation. The procedure is still in its early stages and is to be expanded gradually; however, initial results and feedback are encouraging: villagers have expressed appreciation that decisions are made in a more participatory way and value the opportunity for open exchange, while government staff have gained a clearer understanding of how land registration can be conducted in line with international standards.
+
+[91] [Empty Paragraph]
+
+[92] Conclusions: Strengthening the FPIC principle and VGGT Implementation at the Country Level
+
+[93] An important goal of LMPL was to translate FPIC and related VGGT elements from theory into practice. In many contexts, FPIC remains abstract, contested, or reduced to a checkbox. By operationalizing FPIC through clear procedures, tools, and training, we aim to make it a functioning part of land administration practice. This directly contributes to the VGGT objective of strengthening legitimate tenure rights through participation, transparency, and conflict-sensitive implementation. Naturally, on the way we face a variety of challenges in implementation, for instance a high staff turnover and further training needs of government staff, but also certain dynamics in the field.
+
+[94] LMPL extends the FPIC principle generally to the local population, as in the case of Laos, Indigenous Peoples are not recognized as such. In many cases, it makes sense to limit FPIC exclusively to Indigenous Peoples in order to take their special needs into account and strengthen their rights. In Laos, however, it proved more practical to extend the approach to local communities. Most of them share similar characteristics with Indigenous Peoples.. By deliberately broadening our terminology to local communities, we adopt a more inclusive, politically workable approach that strengthens the protection of vulnerable groups. This goes beyond the VGGT definition of FPIC in Article 9.9, referring solely to Indigenous Peoples. We are mainly guided by other parts of the guidelines, which clearly state that they aim to improve governance “for the benefit of all, with an emphasis on vulnerable and marginalized people” (Art. 1.1) and that “States should recognize and respect all legitimate tenure right holders” (Art. 3.1).
+
+[95] These operational lessons also highlight a deeper reality: Land registration is never merely technical. It requires sensitivity to political systems, power relations, and economic priorities. In Laos – a socialist one-party state but at the same time economically open to investment – diplomatic engagement and a willingness to find compromises were and remain essential.
+
+[96] # References
+
+[97] Barume, Albert K. 2025: Recognition of Indigenous Peoples. Report of the Special Rapporteur on the rights of Indigenous Peoples.
+
+[98] Benson, Frederic. 2015. Indochina War Refugee Movements in Laos, 1954-1975.
+
+[99] Castellanet, C. 2025. Multistakeholder platforms for land governance – 10 years after: A collaborative capitalisation of experience. Lessons learned across four programmes working on land governance. Capex Series #9. Vientiane: MRLG.
+
+[100] Centre for Development and Environment. 2020 (Cornelia Hett, Vong Nanhthavong, Savanh Hanephom, Anongsone Phommachanh, Boungnong Sidavong, Ketkeo Phouangphet, Juliet Lu, Annie Shattuck, Micah Ingalls, Rasso Bernhard, Souphaphone Phathitmixay, Chanthavone Phomphakdy, Andreas Heinimann, Michael Epprecht). Land Leases and Concessions in the Lao PDR: A characterization of investments in land and their impacts. Bern: Centre for Development and Environment (CDE), University of Bern, Switzerland, with Bern Open Publishing-
+
+[101] [SPECIAL] https://www.cde.unibe.ch/unibe/portal/fak_naturwis/g_dept_kzen/b_cde/content/e1459571/e1555229/e908971/e909026/e1015759/LanddealsintheLaoPDR_Eng_4SEP2020LQ_eng.pdf 
+
+[102] Committee for Development Policy. United Nations Department of Economic and Social Affairs. 2024. List of Least Developed Countries.
+
+[103] Daniels, Christian. 2013. Introduction: Upland Peoples in the Making of History in Northern Continental Southeast Asia. Southeast Asian Studies, Vol. 2, No. 1, April 2013, pp. 5–27
+
+[104] [SPECIAL] FAO. 2022. Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security. First revision. Rome. https://doi.org/10.4060/i2801e 
+
+[105] FAO. 2014. Respecting free, prior and informed consent. Practical guidance for governments, companies, NGOs, indigenous peoples and local communities in relation to land acquisition.
+
+[106] Government of Lao PDR. 2026. 10th five-year national socioeconomic development plan (2026–2030).
+
+[107] Government of Lao PDR. 2019. Decree on the Promulgation of the Amended Land Law.
+
+[108] Hennings, Anne. 2024. Laos - Context and Land Governance. https://landportal.org/book/narratives/2024/laos#ref3
+
+[109] Hett, Cornelia; Nanhthavong, Vong; Hanephom, Savanh; Phommachanh, Anongsone; Sidavong, Boungnong; Phouangphet, Ketkeo; Lu, Juliet; Shattuck, Annie; Ingalls, Micah; Bernhard, Rasso; Phathitmixay, Souphaphone; Phomphakdy, Chanthavone; Heinimann, Andreas; Epprecht, Michael. 2020. Land Leases and Concessions in the Lao PDR: A characterization of investments in land and their impacts. Bern: Centre for Development and Environment (CDE), University of Bern, Switzerland, with Bern Open Publishing, 150 pp.
+
+[110] Kenney-Lazar, Miles; Schönweger, Oliver; Messerli, Peter; Nanhthavong, Vong. 2023. Governing Land Concessions in Laos. In: Routledge Handbook of Global Land and Resource Grabbing.
+
+[111] [SPECIAL] Landmine and Cluster Munitions Monitor. 2023. https://the-monitor.org/country-profile/lao-pdr/impact?year=2023
+
+[112] [SPECIAL] MRLG – Mekong Region Land Governance. 2024. Laos Takes a Significant Step Toward Securing Land Rights for Forest Communities. https://www.mrlg.org/news/laos-takes-a-significant-step-toward-securing-land-rights-for-forest-communities/
+
+[113] Larsen, Peter Bille; Chanthavisouk, Chantaly. 2023. Free, prior, and informed consent, local officials, and changing biodiversity governance in Hin Nam No, Laos. https://www.giz.de/sites/default/files/media/els-document/2025-08/conservation-biology-2024-larsen-free-prior-and-informed-consent-local-officials-and-changing.pdf
+
+[114] [SPECIAL] Minority Rights Group. 2018. Laos. https://minorityrights.org/country/laos/
+
+[115] Ministry of Environment and Natural Resources (MONRE). 2021. Ethnic Group Development Framework/ Enhancing Systematic Land Registration Project.
+
+[116] MRLG. 2023. Customary Tenure Rights under the Land and Forest Laws in Lao PDR. https://www.mrlg.org/publications/customary-tenure-rights-under-the-land-and-forest-laws-in-lao-pdr/
+
+[117] [SPECIAL] Nanhthavong, Vong; Oberlack, Christoph; Hett, Cornelia; Messerli, Peter; Epprecht, Michael. Pathways to human well-being in the context of land acquisitions in Lao PDR. Global Environmental Change, Volume 68, 2021, 102252, ISSN 0959-3780, https://doi.org/10.1016/j.gloenvcha.2021.102252.
+
+[118] National Assembly Standing Committee of the Lao PDR. 2024. Resolution on recognition of land use right in forest areas (unofficial translation).
+
+[119] President of the Lao People’s Democratic Republic. 2019. Decree on the promulgation of the amended Land Law.
+
+[120] Scholz, Vera; Gloeckner, Carsten. 2017. “We are feeling safe about our land now” GIZ Land Program Laos: Assessing the contribution to changes in land use, investments in land and perceived tenure security.
+
+[121] Scott, James C. 2009. The Art of Not Being Governed. An Anarchist History of Upland Southeast Asia.
+
+[122] [SPECIAL] Sustainable Mekong Research Network. 2019. Compelling reason for local action: Climate risk reduction and adaptation in Lao PDR. https://weadapt.org/wp-content/uploads/2023/05/52ce98e2d225a08-policy-brief-cc-food-security-laos.pdf
+
+[123] [SPECIAL] UN CPD (Committee for Development Policy). 2024. https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/ldc_list.pdf
+
+[124] [SPECIAL] World Bank. 2025a. Poverty and Equity Brief. Lao People´s Democratic Republic. https://documents1.worldbank.org/curated/en/099649004212510131/pdf/IDU-7ab50ba6-621e-42a2-b43d-4ca8260e14b3.pdf
+
+[125] World Bank. 2025b. Lao Economic Monitor, Dec 2025: Consolidating Recent Reform Momentum for Stability and Growth. Key Findings. https://www.worldbank.org/en/country/lao/publication/lao-economic-monitor-dec-2025-consolidating-recent-reform-momentum-for-stability-and-growth-key-findings#:~:text=Strong%20foreign%20investment%20and%20the,debts%20and%20rising%20public%20wages.
+
+[126] World Bank. 2021. Project Appraisal Document. https://documents1.worldbank.org/curated/en/775441641830161995/pdf/Lao-Peoples-Democratic-Republic-Enhancing-Systematic-Land-Registration-Project.pdf
+
+[127] [Empty Paragraph]
+
+[128] Keywords
+
+[129] FPIC (Free, Prior and Informed Consent); Systematic Land Registration (SLR), responsible land governance, tenure security.
+
+[130] [Empty Paragraph]
