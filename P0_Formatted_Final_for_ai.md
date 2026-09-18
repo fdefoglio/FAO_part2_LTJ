@@ -4,9 +4,9 @@
      and will be left untouched on import. -->
 <!-- Footnote references appear inline as [^fnN]; their text is listed at the bottom. -->
 
-[0] **The role of the VGGT in advancing land policies and reforms: An introduction**
+[0] # The role of the VGGT in advancing land policies and reforms: An introduction
 
-[1] # 1. Land policy reform between momentum and challenge
+[1] ## 1. Land policy reform between momentum and challenge
 
 [2] Land policy reform – understood as a multidimensional and iterative process encompassing the formulation, revision, and implementation of legal, regulatory, and institutional frameworks governing access to, control over, and use of land – is increasingly reemerging not only as a central issue in public policy debates, but as a necessary response to intensifying and often conflicting pressures on land systems worldwide. Growing competition over land, driven by climate change, largescale landbased investments, food system transformation, rapid urbanization, and the expansion of energy infrastructure, is generating complex tradeoffs and contestation among multiple land users and stakeholders. These dynamics are heightening risks of land conflicts, inequality, and tenure insecurity, while exposing the limitations of existing governance frameworks.
 
@@ -24,7 +24,7 @@
 
 [9] Taken together, these developments signal a renewed international commitment to land policy reform as a cornerstone of inclusive, resilient, and sustainable rural transformation. They also point to a substantial and growing body of experience with supporting land policy reform in practice, which can provide important insights into how to design and implement initiatives that can translate VGGT principles into practical outcomes.
 
-[10] # 2. The special issue
+[10] ## 2. The special issue
 
 [11] This special issue examines lessons from practical experience with aligning land policies and reforms with the VGGT. Discussing country case studies that range from Latin America to Africa and Southeast Asia, the special issue brings together reflective pieces from scholar-practitioners who have first-hand knowledge of (and often direct involvement in) the policy processes they place under examination.
 
@@ -34,7 +34,7 @@
 
 [14] Collectively, the articles shed light on the long-term historical trajectories that need to be understood in order to make sense of, and support, land policy reform; on the diverse and complementary roles of different actors in reform processes, both within and beyond the state; on the complex interplay of political and technical dimensions that affect both challenges and solutions; on navigating pluralistic systems of governance, law, religion and economy, with land connecting multiple ideologies, understandings, and logics for authority; and on what approaches work, and what conditions need to be in place, for advancing effective reforms aligned with the VGGT.
 
-[15] # 3. A few Thematic highlights
+[15] ## 3. A few Thematic highlights
 
 [16] Overall, the articles in the collection highlight the continued relevance of the VGGT in land policy reform processes. The articles document how, since their adoption, the VGGT have been resorted to and used in different ways, in diverse policy contexts, from national legislation and policy reform to community by-laws and commissions of enquiry. Besides providing an authoritative reference point for addressing specific land policy issues, the VGGT have also been mobilized and wielded to catalyze social and institutional processes and build momentum for change in the first place, providing what has been described in the Uganda case study presented by Ochom as a ‘shared global policy ethos’.
 
@@ -54,7 +54,7 @@
 
 [24] These trends point to the continued relevance of implementing the VGGT – and to the need for knowledge and learning processes that can bridge research and practice, feeding insights from practical experiences into reform design and implementation. The articles in this special issue are a contribution to this agenda, offering insights into how the VGGT can best be operationalized to support inclusive and transformative land policy reforms.
 
-[25] # References
+[25] ## References
 
 [26] [SPECIAL] Chimhowu, A. (2019). The 'new' African customary land tenure. Characteristic, features and policy implications of a new paradigm. Land Use Policy, 81, 10.1016/j.landusepol.2018.04.014.
 
