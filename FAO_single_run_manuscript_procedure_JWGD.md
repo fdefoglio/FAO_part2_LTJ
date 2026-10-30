@@ -25,7 +25,14 @@ Process manuscript `{{Pn}}` (`{{REF}}`) in one run, from intake to delivery, and
 1. `{{LABELLED_MD}}` and/or `{{MD}}` as described above.
 2. Page numbers and the table/figure inventory: from the review export (`<!-- page N -->` lines, `TABLE` blocks, `INVENTORY` block), or, if `{{LABELLED_MD}}` is not a review export, from `{{DOCX}}` (`w:lastRenderedPageBreak`).
 3. `{{SHEET}}` – optional. It may use `[n]` labels instead of page numbers, and it may be stale against the current file.
-4. Project files: `house-style.md`, `citations-rules.md` (142 FAOSTYLE rules), `cb8081en.pdf` (FAOSTYLE English, Nov 2024), `conflicts.md`, `recommended-words.md`, `fao_termlist.json`, `nocs_lookup.json`.
+4. Project files: `house-style.md`, `citations-rules.md` (142 FAOSTYLE rules), `cb8081en.pdf` (FAOSTYLE English, Nov 2024), `conflicts.md`, `recommended-words.md`, `fao_termlist.json`.
+5. NOCS check, fetched at run time from the FAO-prompts repository (G16a):
+   ```
+   BASE=https://raw.githubusercontent.com/fdefoglio/FAO-prompts/main/nocs
+   curl -sSLf -o nocs_check.py $BASE/nocs_check.py
+   curl -sSLf -o nocs_export.csv $BASE/nocsDataExport_20261030.csv
+   ```
+   The official NOCS export is the data source. Use `nocs_lookup.json` only if the export is unavailable, and say so (it maps full names only and is out of date). If neither the script nor NOCS data can be found, stop and say so. Do not run the procedure without the NOCS check.
 
 **Stages** (run in this order; each uses the output of the one before)
 
@@ -39,6 +46,7 @@ Process manuscript `{{Pn}}` (`{{REF}}`) in one run, from intake to delivery, and
    - **2a.** Pronouns and headings (G5–G6).
    - **2b.** Citations in both directions, plus instruments, events, named works, quotations and reference-list checks (G8–G11).
    - **2c.** Foreign-language terms, abbreviations, tables and figures, spelling and style slips (G13–G16).
+   - **2d.** Country names: run `nocs_check.py` on `{{DOCX}}` and keep its findings CSV and receipt (G16a).
 3. **Reconcile with `{{SHEET}}`** (skip if no sheet). Convert and rewrite its rows (G3), check each row against the manuscript (G18), classify every row and every scan finding as Editor, Author or Mixed (G4), and note which scan findings the sheet already covers.
 4. **Build the deliverables.**
    - Author sheet: author comments only, chronological, with page numbers.
@@ -93,8 +101,9 @@ Process manuscript `{{Pn}}` (`{{REF}}`) in one run, from intake to delivery, and
 ### G4. Classification: Editor, Author, Mixed
 Applies to every sheet row and every scan finding.
 - **Author** if resolving it needs anything not in the document or the house style: reference entries or their missing parts, places, titles, series numbers, journal details, citations, URLs, cited dates, the source or page of a quotation, whether a claim is supported, the author's intent, or the referent of an ambiguous "we".
-- **Editor** only when the editor can be sure of the fix from the document and the house style alone: spelling, capitalization, abbreviation handling, italics, punctuation, in-text author forms, cross-reference fixes, ordering of entries, a/b lettering, moving an entry to Further reading, and correcting an internal inconsistency where the correct form appears elsewhere in the manuscript. If there is real doubt, classify as Author or `Apply – verify`, never as a confident editor item.
+- **Editor** only when the editor can be sure of the fix from the document and the house style alone: spelling, capitalization, abbreviation handling, italics, punctuation, in-text author forms, cross-reference fixes, ordering of entries, a/b lettering, moving an entry to Further reading, NOCS country names (G16a), and correcting an internal inconsistency where the correct form appears elsewhere in the manuscript. If there is real doubt, classify as Author or `Apply – verify`, never as a confident editor item.
 - **Mixed**: split into an editor part and an author part, each written so it stands alone.
+- **Mandatory rules are never author choices.** A rule that FAOSTYLE states as mandatory (NOCS country names, -ize spelling, "percent" in running text, sentence-case headings) is an editor action. It is never put to the author as a question, and an author's reply such as "Laos is fine" does not override it. If the author pushes back, keep the fix and record `Implemented editorially` with the rule number. P6 round 1 is the counter-example: the rule was offered as a choice, and the non-NOCS form was kept.
 - A names-but-no-citation case, such as a special issue whose contributions are named without in-text citations or reference entries, is an **Author** query: "The author must search for them and implement them here as in-text citations as well as reference entries." Contributor names in such an issue are not author–date citations.
 - The author sheet holds author comments only. Editor actions, editor-action clauses and internal references are removed from it.
 
@@ -194,6 +203,13 @@ Applies to every sheet row and every scan finding.
 - Where the house style and FAOSTYLE conflict, follow `conflicts.md`. Do not change recommended-words choices without a rule behind the change.
 - The aim is a change list for the cases found, not a rewrite. Any rephrasing respects the 34-word sentence cap and the 8 percent word-count limit.
 
+### G16a. Country names – NOCS (2d) – FAOSTYLE §6.3.1
+- Run `python3 nocs_check.py {{DOCX}} --nocs nocs_export.csv --out-dir {{OUT}}`. The run writes `<stem>_nocs_findings.csv` and `<stem>_nocs_receipt.md`. Exit code 2 means the NOCS data did not load: stop. The check never passes silently.
+- **Apply** rows are editor changes. Copy each one into `{{Pn}}_editor_changes.csv` (group "country name"), with a `current` string long enough to be unique; for a replace-all, state the count in the basis file.
+- **Verify** rows need an editor decision, not an author query. They cover possible proper names (Tanzania Land Alliance, Land Management Project Laos, High Court of Tanzania), in-text citation keys that change together with their reference entry, defined abbreviations to delete ("(Lao PDR)"), a modifier before the name ("northern Laos" → "the northern Lao People's Democratic Republic", or a rephrase), and "US" or "UK" used as a noun. Record each decision in the basis file as `Apply`, `Apply – verify` or "kept: official name".
+- **Protected** rows are left alone: quotations, published titles and publisher names in references, UK and USA in references, US or UK used as an adjective, and foreign proper names (Office du Niger).
+- Rules applied: Short Name in text; an article for names whose Short Name ends in "(the)"; no article at the start of a title or heading, after a colon, comma or en dash in a heading, in keyword lists or in a place of publication; the Short Name for Lists only in lists after a colon, in parentheses and in tables; "United States" and "United Kingdom" only after the full name has appeared once.
+
 ### G17. Editor outputs
 **`{{Pn}}_editor_changes.csv`**
 - Exactly two columns, header `current,to_replace`; all fields quoted.
@@ -222,6 +238,7 @@ Applies to every sheet row and every scan finding.
 - Re-count every `current` string in the markdown. If `{{DOCX}}` is attached, sample-check at least five page numbers against it, plus every page that has more than one comment. If the page numbers come from a review export, state in the chat summary that they reflect Word's last layout of the file.
 - Re-run the pronoun scan on the replacement column of `{{Pn}}.csv` and confirm that no pronoun, over-length sentence or over-8-percent drift remains in a body paragraph.
 - Confirm that each source file is unchanged (checksum or modification time).
+- NOCS gate: run `nocs_check.py --gate` on the manuscript with the editor CSV applied, or list the Apply rows still open if the CSV cannot be applied here. The gate passes only when no Apply rows remain. Attach the receipt.
 - Anything not verifiable is listed as an open check item, never reported as done.
 
 ### G20. Output handling and escalation
@@ -248,6 +265,7 @@ Applies to every sheet row and every scan finding.
 | `{{Pn}}_editor_actions.tsv` | Editor action list in manuscript order |
 | `{{Pn}}_editor_changes.csv` | `current,to_replace` only; every `current` string verified |
 | `{{Pn}}_editor_changes_basis.tsv` | Status, rule, occurrence count and note for each CSV row, HOLD items with triggers, open check items |
+| `<stem>_nocs_findings.csv` and `<stem>_nocs_receipt.md` | NOCS check output (G16a). The receipt is the evidence that the check ran, including a zero-findings result |
 | `{{Pn}}_reference_title_translations.csv` | Only if non-English reference titles exist: `current,to_replace` rows adding the bracketed English translation (rule 89); status in the basis file |
 
 **Quality criteria**
@@ -260,6 +278,7 @@ Applies to every sheet row and every scan finding.
 6. No reference data was invented. Every open value is an author query or a `verify` item.
 7. Report positions are paragraph labels; author-sheet and editor-list positions are page numbers from the review export or the DOCX, with any doubt about repagination stated.
 8. All files were re-opened and checked, and every source file is unchanged.
+9. The NOCS check ran against the official export; every Apply row is in the editor CSV; every Verify row has a recorded decision.
 
 **Chat summary** (short, in this order; for several manuscripts, one block per manuscript)
 
